@@ -1,20 +1,20 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - League of Legends Ultimate Guesser
 
-Submitted by: **Your Name Here**
+Submitted by: Oskar Wolny
 
-This web app: **insert description**
+This web app: uses flashcards containing information about League of Legends champions' ultimate ability names
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [ ] **A list of card pairs is created**
-- [ ] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- [X] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [X] **A single card at a time is displayed, only showing one of the components of the information pair**
+- [X] **A list of card pairs is created**
+- [X] **Clicking on the card shows the corresponding component of the information pair**
+- [X] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
@@ -33,7 +33,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/7TM5N6q.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with liceCap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,6 +42,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+I was very confused about how to flip the cards but then decided to use 2 state hooks instead of one
 
 ## License
 
